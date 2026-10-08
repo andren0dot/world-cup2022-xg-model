@@ -1,15 +1,4 @@
 """
-Starter xG (expected goals) model on StatsBomb open data: 2022 World Cup.
-
-Setup:
-    pip install statsbombpy pandas numpy scikit-learn matplotlib
-
-Run it top to bottom, or open in VS Code / Jupyter (the "# %%" lines
-split it into cells you can run one at a time).
-
-Data: StatsBomb open data. If you publish anything built on it, credit
-StatsBomb as the source and use their logo (see their user agreement).
-"""
 
 # %% 1. Load shots (cached to a CSV so you only download once)
 import os
