@@ -47,4 +47,5 @@ Try the same idea on USL data from American Soccer Analysis
 Data
 Shot data comes from StatsBomb's open data. Thanks to StatsBomb for making it freely available.
 <img src="statsbomb-logo.png" width="200" alt="StatsBomb">
-Built by Andre Nodot
+
+          Built by Andre Nodot
